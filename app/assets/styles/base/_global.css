@@ -1,0 +1,17 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+* {
+  box-sizing: border-box;  /* so that every element on the page can be sized by width easier */
+}
+
+a {
+  color: $mainOrange;
+}
