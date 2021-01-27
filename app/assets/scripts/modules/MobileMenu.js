@@ -1,11 +1,5 @@
 class MobileMenu {
     constructor () {
-
-/* crap way
-        document.querySelector(".site-header__menu-icon").addEventListener("click", function() {
-            console.log("The top right icon was clicked.")
-*/
-
         this.menuIcon = document.querySelector(".site-header__menu-icon")
         this.menuContent = document.querySelector(".site-header__menu-content")
         this.siteHeader = document.querySelector(".site-header")
@@ -24,3 +18,8 @@ class MobileMenu {
 }
 
 export default MobileMenu
+
+/* crap way
+        document.querySelector(".site-header__menu-icon").addEventListener("click", function() {
+            console.log("The top right icon was clicked.")
+*/

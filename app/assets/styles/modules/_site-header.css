@@ -23,7 +23,7 @@
         position: absolute;
         top: 0;
         left: 50%;
-        transform: translatex(-50%);
+        transform: translateX(-50%);
         background-color: $mainBlue;
         padding: 13px 29px;
 
