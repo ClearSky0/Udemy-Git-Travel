@@ -2,12 +2,12 @@
   "name": "travel-site",
   "version": "1.0.0",
   "scripts": {
-    "_GaryComment": "/* this is how it should be now, not webpack-dev-server*/",
+    "_GaryComment": "/* this next line is how it should be now, not webpack-dev-server*/",
     "dev": "webpack serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "loadash": "^1.0.0",
+    "lodash": "^4.17.20",
     "normalize.css": "^8.0.1"
   },
   "devDependencies": {
