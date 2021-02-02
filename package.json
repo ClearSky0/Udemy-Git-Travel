@@ -11,11 +11,14 @@
     "axios": "^0.21.1",
     "lazysizes": "^5.3.0",
     "lodash": "^4.17.20",
-    "normalize.css": "^8.0.1"
+    "normalize.css": "^8.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
     "@webpack-cli/serve": "^1.2.2",
     "autoprefixer": "^9.6.5",
     "babel-loader": "^8.2.2",
