@@ -11,6 +11,8 @@
 *.sass-cache
 node_modules/
 .tmp/
+# To stop commits of built site to Github
+docs
 
 # OS or Editor folders
 .DS_Store
